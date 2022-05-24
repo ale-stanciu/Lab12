@@ -1,0 +1,5 @@
+1 BV-CJ luni 55 125
+3 BV-B joi 20 46
+2 CJ-B luni 80 120
+4 SM-CJ marti 40 100
+5 BV-B sambata 60 90
